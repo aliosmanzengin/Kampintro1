@@ -1,0 +1,10 @@
+C:\Users\Casper\source\repos\Kampintro\ChessBoard\bin\Debug\ChessBoard.exe.config
+C:\Users\Casper\source\repos\Kampintro\ChessBoard\bin\Debug\ChessBoard.exe
+C:\Users\Casper\source\repos\Kampintro\ChessBoard\bin\Debug\ChessBoard.pdb
+C:\Users\Casper\source\repos\Kampintro\ChessBoard\obj\Debug\ChessBoard.csprojAssemblyReference.cache
+C:\Users\Casper\source\repos\Kampintro\ChessBoard\obj\Debug\ChessBoard.Form1.resources
+C:\Users\Casper\source\repos\Kampintro\ChessBoard\obj\Debug\ChessBoard.Properties.Resources.resources
+C:\Users\Casper\source\repos\Kampintro\ChessBoard\obj\Debug\ChessBoard.csproj.GenerateResource.cache
+C:\Users\Casper\source\repos\Kampintro\ChessBoard\obj\Debug\ChessBoard.csproj.CoreCompileInputs.cache
+C:\Users\Casper\source\repos\Kampintro\ChessBoard\obj\Debug\ChessBoard.exe
+C:\Users\Casper\source\repos\Kampintro\ChessBoard\obj\Debug\ChessBoard.pdb
